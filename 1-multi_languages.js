@@ -1,3 +1,3 @@
-console.log("C is Fun");
-console.log("Python is Cool");
-console.log("JavaScript is Amazing");
+const line1 ="C is fun";
+const line2 = "Python is cool";
+const line3 = "JavaScript is amazing";
